@@ -1,0 +1,31 @@
+<student>
+  <name>Alex Pod</name>
+  <age>33</age>
+  <gender>male</gender>
+  <student_id>123456</student_id>
+  <contact_details>
+    <email>alex.pod@email.com</email>
+    <phone>+1234567890</phone>
+  </contact_details>
+  <courses>
+    <course>Engeneering</course>
+    <course>Physics</course>
+    <course>Programming</course>
+  </courses>
+  <grades>
+    <Engeneering>90</Engeneering>
+    <Physics>85</Physics>
+    <Programming>95</Programming>
+  </grades>
+  <is_active>true</is_active>
+  <address>
+    <street>123 Main St</street>
+    <city>Kyiv</city>
+    <country>Ukraine</country>
+  </address>
+  <emergency_contact>
+    <name>Peter Pan</name>
+    <relationship>Son</relationship>
+    <phone>+10987654321</phone>
+  </emergency_contact>
+</student>
