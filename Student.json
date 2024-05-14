@@ -1,0 +1,29 @@
+{
+  "student": {
+    "name": "Alex Pod",
+    "age": 33,
+    "gender": "male",
+    "student_id": "123456",
+    "contact_details": {
+      "email": "alex.pod@email.com",
+      "phone": "+1234567890"
+    },
+    "courses": ["Engeneering", "Physics", "Programming"],
+    "grades": {
+      "Engeneering": 90,
+      "Physics": 85,
+      "Programming": 95
+    },
+    "is_active": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "City",
+      "country": "Ukraine"
+    },
+    "emergency_contact": {
+      "name": "James Bond",
+      "relationship": "Parent",
+      "phone": "+10987654321"
+    }
+  }
+}
