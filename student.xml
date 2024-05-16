@@ -1,0 +1,28 @@
+<student>
+  <name>Alex Pod</name>
+  <age>33</age>
+  <gender>male</gender>
+  <birthday>1990-05-20</birthday>
+  <gpa>3.8</gpa>
+  <is_active>true</is_active>
+  <courses>
+    <course>Mathematics</course>
+    <course>Physics</course>
+    <course>Computer Science</course>
+  </courses>
+  <address>
+    <street>Main</street>
+    <city>Kyiv</city>
+    <country>Ukraine</country>
+    <zipcode>40004</zipcode>
+  </address>
+  <contact>
+    <email>alex.pod@example.com</email>
+    <phone>+1234567890</phone>
+  </contact>
+  <grades>
+    <Mathematics>90</Mathematics>
+    <Physics>85</Physics>
+    <Computer_Science>95</Computer_Science>
+  </grades>
+</student>

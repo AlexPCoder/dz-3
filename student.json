@@ -1,0 +1,26 @@
+{
+  "student": {
+    "name": "Alex Pod",
+    "age": 33,
+    "gender": "male",
+    "birthday": "1990-05-20",
+    "gpa": 3.8,
+    "is_active": true,
+    "courses": ["Mathematics", "Physics", "Computer Science"],
+    "address": {
+      "street": "Main",
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "zipcode": "40004"
+    },
+    "contact": {
+      "email": "alex.pod@example.com",
+      "phone": "+1234567890"
+    },
+    "grades": {
+      "Mathematics": 90,
+      "Physics": 85,
+      "Computer Science": 95
+    }
+  }
+}
